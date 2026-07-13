@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class TapeFolding { // Changed from TapeFolding to Main
+public class FoldTape { 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the length of the tape");
