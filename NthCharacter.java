@@ -7,5 +7,6 @@ public class NthCharacter{
 		int outputCharacter = sc.nextInt();
 		String result = inputWords.substring(10,outputCharacter);
 		System.out.println(result);
+		sc.close();
 	}
 }

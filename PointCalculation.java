@@ -4,6 +4,6 @@ public class PointCalculation{
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		System.out.println(num*10/100);	
-		
+		sc.close();
 	}
 }

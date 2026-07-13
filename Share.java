@@ -7,5 +7,6 @@ public class Share{
 		int ltp = sc.nextInt();
 		int unit = investment/sharePrice;
 		System.out.println((unit*ltp)-(unit*sharePrice));
+		sc.close();
 	}
 }

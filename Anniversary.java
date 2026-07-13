@@ -5,5 +5,6 @@ public class Anniversary{
 		int year1 = sc.nextInt();
 		int year2 = sc.nextInt();
 		System.out.println(year2-year1);
+		sc.close();
 	}
 }

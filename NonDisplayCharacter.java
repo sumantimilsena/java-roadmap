@@ -9,6 +9,7 @@ public class NonDisplayCharacter{
 			System.out.println(str.length()-10);
 		}else{
 			System.out.println(0);
-		}		
+		}	
+		sc.close();	
 	}
 }

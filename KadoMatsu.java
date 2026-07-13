@@ -10,5 +10,6 @@ public class KadoMatsu{
 		}else{
 			System.out.print("Error");
 		}
+		sc.close();
 	}
 }

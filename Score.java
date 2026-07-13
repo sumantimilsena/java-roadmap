@@ -11,5 +11,6 @@ public class Score{
 	}else{
 		System.out.println("DRAW");
 	}
+		sc.close();
 	}
 }

@@ -6,6 +6,7 @@ public class WithdrawFee{
 	
 			System.out.println(num-120);
 		
+		sc.close();
 		
 	}
 }

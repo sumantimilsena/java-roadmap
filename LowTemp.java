@@ -11,5 +11,6 @@ public class LowTemp{
 		Arrays.sort(temp);
 		int minTemp = temp[0];
 		System.out.println(minTemp);
+		sc.close();
 	}
 }

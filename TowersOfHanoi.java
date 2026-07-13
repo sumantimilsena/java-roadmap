@@ -10,7 +10,7 @@ public class TowersOfHanoi {
 
     public static void main(String[] args) {
         
-        Scanner in = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         int N;  // The number of disks in the original stack,
                 //   as specified by the user.
@@ -24,13 +24,14 @@ public class TowersOfHanoi {
         System.out.println();
         System.out.print("? ");
 
-        N = in.nextInt();
+        N = sc.nextInt();
 
         System.out.println();
         System.out.println();
 
         towersOfHanoi(N, 0, 1, 2);  // Print the solution.
 
+		sc.close();
     }
 
     /**

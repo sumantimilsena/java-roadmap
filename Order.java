@@ -7,5 +7,6 @@ public class Order{
 //		System.out.println(p1+" "+p2);
 		System.out.println(p1*p2);
 
+		sc.close();
 	}
 }

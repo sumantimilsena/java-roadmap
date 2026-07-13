@@ -10,5 +10,6 @@ public class EvenOdd{
 		}else{
 			System.out.println("No");
 		}
+		sc.close();
 		}//main ended
 	}//class ended

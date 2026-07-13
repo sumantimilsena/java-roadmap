@@ -16,5 +16,6 @@ public class ArithmeticSequence{
 			}
 		}
 		
+		sc.close();
 		}//main ended
 	}//class ended

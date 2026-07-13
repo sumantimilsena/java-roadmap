@@ -10,6 +10,8 @@ public class ValentineChocolate{
 		}else{
 			System.out.println(price*5);
 		}
+		
+		sc.close();
 	}
 	
 }

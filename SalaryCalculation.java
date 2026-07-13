@@ -5,5 +5,6 @@ public class SalaryCalculation{
 	int amount = sc.nextInt();
 	int time = sc.nextInt();
 	System.out.println(amount*time);
+		sc.close();
 	}
 }

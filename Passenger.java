@@ -16,5 +16,6 @@ public class Passenger {
         int stop2 = sc.nextInt();
         int stop3 = sc.nextInt();
         System.out.println(stop1-stop2+stop3);
+		sc.close();
     }
 }

@@ -23,5 +23,6 @@ public class Campaign{
 		}else{
 			System.out.println("OK");
 		}
+		sc.close();
 	}//main ended
 }//class ended

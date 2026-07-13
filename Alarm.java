@@ -20,5 +20,6 @@ public class Alarm{
 			}
 			break;
 		}
+		sc.close();
 	}
 }

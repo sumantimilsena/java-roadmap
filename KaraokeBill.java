@@ -11,5 +11,6 @@ public class KaraokeBill{
 		}else{
 			System.out.println((minute/30)*priceper30);			
 		}
+		sc.close();
 	}
 }

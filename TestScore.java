@@ -19,5 +19,6 @@ public class TestScore{
 				System.out.println(i);
 			}			
 		}	
+		sc.close();
 	}//main ended
 }//class ended
