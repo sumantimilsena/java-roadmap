@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //C062
-public class MelononShushi {
+public class MelonOnShushi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
