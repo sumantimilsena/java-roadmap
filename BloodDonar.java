@@ -15,5 +15,6 @@ public class BloodDonar {
         }else{
             System.out.println("Your age must be greater than 18");
         }
+        sc.close();
     }
 }
