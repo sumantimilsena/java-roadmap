@@ -21,5 +21,6 @@ public class PrizeGiveAwayCampaign {
                 System.out.println("N");
             }
         }
+        sc.close();
     }
 }
